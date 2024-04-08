@@ -1,0 +1,34 @@
+*{
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-image: url("https://i.pinimg.com/600x315/73/89/c3/7389c3c6be97c89f287b1543988d51e8.jpg");
+    padding: 50px;
+    margin: 10px; }
+
+nav{
+    text-align: center;
+    font-weight: bold;
+    text-transform: lowercase;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+[href]{
+    color: brown;
+}
+
+
+
+footer {
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    text-align: center;
+    background-image: url("https://i.pinimg.com/600x315/73/89/c3/7389c3c6be97c89f287b1543988d51e8.jpg");
+}
